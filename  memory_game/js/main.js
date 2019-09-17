@@ -60,7 +60,6 @@ var createBoard = function creatBoard() {
 
 createBoard();
 
-
 	
 
 
